@@ -2,7 +2,7 @@
 
 Here are some quick things about me:
 
-- 🔭 I'm a front end engineer from egypt and I love Javascript & TypeScript.
+- 🔭 I'm a front end engineer from egypt and I love JavaScript & TypeScript.
 - 🅰 Founder of Ng Arab
 - 🌱 Currently learning front end tools like Angular, RxJS, React & Redux
 - 💬 Ask me about Angular, TypeScript & RxJS
