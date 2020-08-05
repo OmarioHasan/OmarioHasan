@@ -7,4 +7,4 @@ Here are some quick things about me:
 - 🌱 Currently learning front end tools like Angular, RxJS, React & Redux
 - 💬 Ask me about Angular, TypeScript & RxJS
 
-![](https://github.com/OmarioHasan/OmarioHasan/raw/master/giphy.gif)
+![](https://github.com/OmarioHasan/OmarioHasan/raw/master/giphy1.gif)
