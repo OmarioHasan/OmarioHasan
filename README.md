@@ -6,3 +6,5 @@ Here are some quick things about me:
 - 🅰 Founder of Ng Arab
 - 🌱 Currently learning front end tools like Angular, RxJS, React & Redux
 - 💬 Ask me about Angular, TypeScript & RxJS
+
+![](https://github.com/OmarioHasan/OmarioHasan/raw/master/giphy.gif)
